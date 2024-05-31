@@ -1,0 +1,8 @@
+# to install python
+
+pip install psutil
+
+# Adding the supporting environment for system health
+
+python system_health_monitor.py
+
